@@ -8,8 +8,8 @@ To cite this Dataset or Paper, use the bibtex below:
 
 <ins>Files in this repository:</ins>
 
-Data.7z - The CADNET dataset | 3317 3D CAD Models across 43 categories
+**Data.7z** - The CADNET dataset | 3317 3D CAD Models across 43 categories
 
-CADNET_Details.pdf - Contains information about the category names and the number of models in each class
+**CADNET_Details.pdf** - Contains information about the category names and the number of models in each class
 
 
