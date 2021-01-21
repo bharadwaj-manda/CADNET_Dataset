@@ -1,4 +1,7 @@
 # CADNET_Dataset
+## This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+### This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
+
 
 This is the repository for the 'CADNET' Dataset, associated with the paper "A Convolutional Neural Network Approach to the Classification of Engineering Models".
 
