@@ -4,4 +4,4 @@ This is the repository for the 'CADNET' Dataset, associated with the paper "A Co
 
 To cite this Dataset or Paper, use the bibtex below:
 
-*Coming soon*
+*Bibtex Coming soon*
