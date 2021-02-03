@@ -3,7 +3,7 @@
 #### This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
 
 
-This is the repository for the 'CADNET' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314)
+This is the repository for the 'CADNET' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
 To cite this Dataset or Paper, use the bibtex below:
 
