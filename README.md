@@ -5,9 +5,15 @@
 
 This is the repository for the 'CADNET' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
-To cite this Dataset or Paper, use the bibtex below:
+To cite this Dataset or Paper:
 
-@ARTICLE{9343314,  author={B. {Manda} and P. {Bhaskare} and R. {Muthuganapathy}},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/ACCESS.2021.3055826},  ISSN={2169-3536},  month={},}
+- Use the bibtex below:
+
+@ARTICLE{9343314,  author={B. {Manda} and P. {Bhaskare} and R. {Muthuganapathy}},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={9},  number={},  pages={22711-22723},  doi={10.1109/ACCESS.2021.3055826}}
+
+- Or use the plain text below
+
+B. Manda, P. Bhaskare and R. Muthuganapathy, "A Convolutional Neural Network Approach to the Classification of Engineering Models," in IEEE Access, vol. 9, pp. 22711-22723, 2021, doi: 10.1109/ACCESS.2021.3055826.
 
 <ins>Files in this repository:</ins>
 
