@@ -2,10 +2,9 @@
 layout: default
 ---
 
-
 # News
 
-> **(2021, January 21)** CADNET dataset is added 
+> **(2021, January 21)** This is the repository for the 'CADNET' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
 ## CADNET Dataset
 
