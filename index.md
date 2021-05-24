@@ -15,7 +15,7 @@ We introduce the CADNET dataset, which is an annotated collection of 3,317 3D En
 
 ## Download
 
-Download the dataset [here](Data.7z)
+Download the dataset <a href="Data.7z" target="_blank">[here]</a>
 
 ### Authors
 
