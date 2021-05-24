@@ -23,10 +23,7 @@ We are grateful to the teams of ESB and NDR for making their datasets available.
 
 ### Paper/Citation
 
-<!--<div style="display: flex; justify-content: center; margin-bottom:20px;">-->
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank"><img src="paper.png" alt="Paper" class="paper"/></a>
-<!--<img src="assets/images/supp.png" alt="Supplementary Material" style="border:1px solid #bbbbbb; border-radius: 6px; margin-left: auto; margin-right: auto;"/>-->
-<!--</div>-->
 
 Please cite our paper if you use the CADNET dataset.
 
