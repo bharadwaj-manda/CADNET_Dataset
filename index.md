@@ -15,15 +15,11 @@ We introduce the CADNET dataset, which is an annotated collection of 3,317 3D En
 
 ## Download
 
-Download the dataset <a href="Data.7z" target="_blank">[here]</a>
+Download the dataset [here](https://github.com/bharadwaj-manda/CADNET-Dataset/blob/main/Data.7z)
 
 ### Authors
 
 Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan
-
-### Acknowledgements
-
-We are grateful to the teams of ESB and NDR for making their datasets available. Thanks are also due to the many members who have contributed 3D CAD models to the CADNET dataset.
 
 ### Paper/Citation
 
@@ -34,6 +30,10 @@ Please cite our paper if you use the CADNET dataset.
 ```
 @ARTICLE{9343314,  author={Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={9},  number={},  pages={22711-22723},  doi={10.1109/ACCESS.2021.3055826}}
 ```
+
+### Acknowledgements
+
+We are grateful to the teams of ESB and NDR for making their datasets available. Thanks are also due to the many members who have contributed 3D CAD models to the CADNET dataset.
 
 ### License
 
