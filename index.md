@@ -1,3 +1,12 @@
+---
+layout: default
+---
+
+
+# News
+
+> **(2021, January 21)** CADNET dataset is added 
+
 ## CADNET Dataset
 
 You can use the [editor on GitHub](https://github.com/bharadwaj-manda/CADNET_Dataset/edit/gh-pages/index.md).
