@@ -13,6 +13,10 @@ layout: default
 
 We introduce the CADNET dataset, which is an annotated collection of 3,317 3D Engineering models over 43 categories. Owing to the availability of large annotated datasets and also enough computational power in the form of GPUs, many deep learning-based solutions for object classification have been proposed of late, especially in the domain of images and graphical models. Nevertheless, very few solutions have been proposed for the task of functional classification of CAD models. Hence, for this research, CAD models have been collected from Engineering Shape Benchmark (ESB), National Design Repository (NDR), and augmented with newer models created using a modeling software to form a dataset - ‘CADNET’.
 
+## Download
+
+Download the dataset [here](Data.7z)
+
 ### Authors
 
 Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan
