@@ -9,16 +9,6 @@ layout: default
 
 ## CADNET Dataset
 
-You can use the [editor on GitHub](https://github.com/bharadwaj-manda/CADNET_Dataset/edit/gh-pages/index.md).
+We introduce the CADNET dataset, which is an annotated collection of 3,317 3D Engineering models over 43 categories. Owing to the availability of large annotated datasets and also enough computational power in the form of GPUs, many deep learning-based solutions for object classification have been proposed of late, especially in the domain of images and graphical models. Nevertheless, very few solutions have been proposed for the task of functional classification of CAD models. Hence, for this research, CAD models have been collected from Engineering Shape Benchmark (ESB [^1]), National Design Repository [NDR]() and augmented with newer models created using a modeling software to form a dataset - ‘CADNET’
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bharadwaj-manda/CADNET_Dataset/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[^1]: Jayanti, S. et al. “Developing an engineering shape benchmark for CAD models.” Comput. Aided Des. 38 (2006): 939-953.
