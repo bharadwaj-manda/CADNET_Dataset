@@ -25,4 +25,4 @@ B. Manda, P. Bhaskare and R. Muthuganapathy, "A Convolutional Neural Network App
 
 **CADNET_Details.pdf** - Contains information about the category names and the number of models in each class
 
-*Thanks are due to T Sai Gowtham, CR Gawtam, Jayendran for their contributions to the dataset.*
+*Thanks are due to the many members who have contributed 3D CAD models to the CADNET dataset.*
