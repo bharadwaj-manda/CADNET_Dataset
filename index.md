@@ -22,7 +22,7 @@ Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan
 
 ### Paper/Citation
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank"><img src="paper.png" alt="Paper" class="paper"/></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank"><img src="paper.png" alt="Paper" class="paper" width="100" height="282"/></a>
 
 Please cite our paper if you use the CADNET dataset.
 
